@@ -1,0 +1,3 @@
+[13-Nov-2023 17:14:20 Europe/Berlin] PHP Warning:  Undefined variable $SERVER in C:\xampp\htdocs\estudiarphp\proyectoapi\routes\routes.php on line 3
+[13-Nov-2023 17:14:20 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudiarphp\proyectoapi\routes\routes.php on line 3
+[13-Nov-2023 17:39:31 Europe/Berlin] PHP Warning:  Undefined array key "request_uri" in C:\xampp\htdocs\estudiarphp\proyectoapi\routes\routes.php on line 3
